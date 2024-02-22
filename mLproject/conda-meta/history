@@ -1,4 +1,4 @@
-==> 2024-02-21 20:03:28 <==
+==> 2024-02-23 02:58:10 <==
 # cmd: C:\Users\Manas\anaconda3\Scripts\conda-script.py create -p mLproject python==3.10.8 -y
 # conda version: 23.7.2
 +defaults/noarch::tzdata-2023d-h04d1e81_0
